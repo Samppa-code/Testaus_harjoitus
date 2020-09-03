@@ -8,4 +8,4 @@ Asiakas syöttää punnitustuloksen ja saa siitä painoindeksin ja kehon rasvapr
 # Tehtävät
 Selvitä, miten painoindeksi (Body Mass Index) lasketaan. Lisää Docs-kansioon määrittelydokumentti, johon dokumentoit laskentakaavat.
 
-# Tee Docs-kansioon luokkakaavio, josta selviää ominaisuudet ja metodit, joilla nämä pystytään laskemaan.
+## Tee Docs-kansioon luokkakaavio, josta selviää ominaisuudet ja metodit, joilla nämä pystytään laskemaan.
